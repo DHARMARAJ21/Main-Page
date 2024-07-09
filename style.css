@@ -1,0 +1,29 @@
+body{
+    background-image: url(image3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.a{
+    background-color:rgb(247, 211, 12);
+    width: 500px;
+    text-align: center;  
+    padding: 20px; 
+    border-radius: 10px;  
+    box-shadow: 0 0 10px rgb(252, 203, 203);  
+    justify-content: center;
+    margin-top: 284px; 
+
+ }
+
+.a img {
+    border-radius: 50px;
+    width: 100px;  
+    height: 100px;  
+    object-fit: cover;  
+    margin-bottom: 10px;  
+}
+
+.a h1{
+    margin: 0;  
+    color: rgb(5, 3, 3); 
+}
